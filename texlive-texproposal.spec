@@ -1,6 +1,6 @@
 Name:		texlive-texproposal
 Version:	43151
-Release:	1
+Release:	2
 Summary:	A proposal prototype for LaTeX promotion in Chinese universities
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texproposal
