@@ -3,7 +3,7 @@ Version:	43151
 Release:	2
 Summary:	A proposal prototype for LaTeX promotion in Chinese universities
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texproposal
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texproposal
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texproposal.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texproposal.doc.r%{version}.tar.xz
